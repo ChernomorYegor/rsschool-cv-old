@@ -18,3 +18,18 @@ ___
 
 I have more than 5+ years of experience in HTML development. 
 I’m calm, responsible and executive, attentive to details (I use Pixel Perfect). I have an analytical mindset and good learning abilities. I enjoy learning. I have a great desire to improve my skills and abilities.
+
+___
+### Skills
+
+* Photoshop, Figma
+* HTML5, BEM
+* CSS3, Sass/SCSS
+* Bootstrap
+* JavaScript, AJAX, jQuery
+* Git, GitHub
+* Webpack, npm, gulp
+* React, React-Router
+* Redux, Redux Saga
+
+English – B2 Upper Intermediate (CEFR). I can read technical literature.
