@@ -33,3 +33,23 @@ ___
 * Redux, Redux Saga
 
 English – B2 Upper Intermediate (CEFR). I can read technical literature.
+
+___
+### Education
+
+* __11.2019 - 06.2020__ – Coding School TeachMeSkills.  
+_Course:_ Front End Developer.  
+_Description:_ Development using HTML5, CSS3, JavaScript, AJAX, Git, Bootstrap, Webpack, npm, React, React-Router, Redux, Redux Saga.  
+![Certificate TeachMeSkills - Front End Developer](https://media-exp1.licdn.com/dms/image/C4D2DAQG7xJ4qNS_U-w/profile-treasury-image-shrink_800_800/0/1597479377694?e=1626634800&v=beta&t=8cy4xUNkRtK0K5ECKcQ1Hykq4AQ2AEJESsC4DgsBdEE)  
+[React game "Dungeon Crawl"](https://chernomoryegor.github.io/react-dungeon-crawl/) / [Source code](https://github.com/ChernomorYegor/react-dungeon-crawl)  
+[React game "Tic Tac Toe"](https://chernomoryegor.github.io/react-tic-tac-toe/) / [Source code](https://github.com/ChernomorYegor/react-tic-tac-toe)  
+
+* __10.2008 - 04.2010__ – Belarusian National Technical University.  
+The Branch of BNTU "Institute of Improvement of Professional Skills and Staff Retraining on New Directions of Engineering, Technology and Economy".  
+_Specialty:_ Web Design and Computer Graphics.  
+_Qualification:_ Software Engineer, Web Designer.
+
+* __09.2002 – 06.2007__ – Belarusian National Technical University.  
+Faculty of Information Technologies and Robotics.  
+_Specialty:_ industrial Robots and Robotic System.  
+_Qualification:_ Electrical and Mechanical Engineer.
