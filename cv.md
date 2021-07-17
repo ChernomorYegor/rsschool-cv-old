@@ -52,3 +52,12 @@ __Qualification:__ Software Engineer, Web Designer.
 Faculty of Information Technologies and Robotics.  
 __Specialty:__ industrial Robots and Robotic System.  
 __Qualification:__ Electrical and Mechanical Engineer.
+
+___
+### Work experience
+
+* __12.2014 - 10.2016__ – Individual Entrepreneur (Freelance), HTML5 Developer.  
+__Main responsibilities:__ Web Development using HTML5, CSS3, JavaScript, jQuery.
+
+* __01.2010 - 12.2014__ – Freelance, HTML Developer.  
+__Main responsibilities:__ Web Development using HTML, CSS, JavaScript, jQuery.
