@@ -7,3 +7,14 @@
 * __Skype:__ s_o_m_b_r_e
 * __LinkedIn:__ [linkedin.com/in/yegor-chernomor](https://linkedin.com/in/yegor-chernomor)
 * __GitHub:__ [github.com/ChernomorYegor](https://github.com/ChernomorYegor)
+
+___
+### Objective
+
+Front-end Developer
+
+___
+### Summary
+
+I have more than 5+ years of experience in HTML development. 
+I’m calm, responsible and executive, attentive to details (I use Pixel Perfect). I have an analytical mindset and good learning abilities. I enjoy learning. I have a great desire to improve my skills and abilities.
