@@ -95,5 +95,6 @@ address {
   float: right;
   width: 150px;
   height: 150px;
+  margin-right: 2em;
   border-radius: 50%;
 }
