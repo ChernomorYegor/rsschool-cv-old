@@ -114,6 +114,12 @@ small a {
   border-radius: 50%;
 }
 
+/* Images in Education section */
+
+.education img {
+  width: 800px;
+}
+
 /* Footer of page */
 
 .footer {
