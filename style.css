@@ -37,7 +37,7 @@ h1 {
 h3 {
   margin-top: 1.25rem;
   margin-bottom: 1.25rem;
-  padding-left: 2rem;
+  padding-left: 2.5rem;
   font-size: 1.25rem;
   font-weight: 600;
   background-color: #f1d04a;
@@ -53,11 +53,12 @@ a:hover {
 }
 
 ul {
+  margin-bottom: 1rem;
   padding-left: 2rem;
 }
 
 li {
-  padding-top: .25rem;
+  margin-top: .25rem;
 }
 
 img {
