@@ -86,6 +86,12 @@ address {
   font-style: normal;
 }
 
+small,
+small time,
+small a {
+  font-size: .8rem;
+}
+
 /* Container for page */
 
 .container {
@@ -106,4 +112,22 @@ address {
   height: 150px;
   margin-right: 2em;
   border-radius: 50%;
+}
+
+/* Footer of page */
+
+.footer {
+  padding: 1.5rem 1rem 0 1rem;
+  border-top: 2px solid #f1d04a;
+}
+
+.footer p {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0;
+}
+
+.rss-logo {
+  width: 83px;
 }
