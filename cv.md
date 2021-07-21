@@ -16,8 +16,9 @@ Front-end Developer
 ___
 ### Summary
 
-I have more than 5+ years of experience in HTML development. 
-I’m calm, responsible and executive, attentive to details (I use Pixel Perfect). I have an analytical mindset and good learning abilities. I enjoy learning. I have a great desire to improve my skills and abilities.
+I have more than 5+ years of experience in HTML development. I’m calm, responsible and executive, 
+attentive to details (I use Pixel Perfect). I have an analytical mindset and good learning abilities. 
+I enjoy learning. I have a great desire to improve my skills and abilities.
 
 ___
 ### Skills
@@ -39,12 +40,17 @@ ___
 
 * __11.2019 - 06.2020__ – Coding School TeachMeSkills.  
 __Course:__ Front End Developer.  
-__Description:__ Development using HTML5, CSS3, JavaScript, AJAX, Git, Bootstrap, Webpack, npm, React, React-Router, Redux, Redux Saga.  
+__Description:__ Development using HTML5, CSS3, JavaScript, AJAX, Git, Bootstrap, Webpack, npm, React, React-Router, 
+Redux, Redux Saga.  
 ![Certificate TeachMeSkills - Front End Developer](https://i.ibb.co/GVy5QYJ/Certificate-TMS-Front-End-0-800.jpg)  
-[React game "Dungeon Crawl"](https://chernomoryegor.github.io/react-dungeon-crawl/) ([Source code](https://github.com/ChernomorYegor/react-dungeon-crawl)) / [React game "Tic Tac Toe"](https://chernomoryegor.github.io/react-tic-tac-toe/) ([Source code](https://github.com/ChernomorYegor/react-tic-tac-toe))  
+[React game "Dungeon Crawl"](https://chernomoryegor.github.io/react-dungeon-crawl/) 
+([Source code](https://github.com/ChernomorYegor/react-dungeon-crawl)) / 
+[React game "Tic Tac Toe"](https://chernomoryegor.github.io/react-tic-tac-toe/) 
+([Source code](https://github.com/ChernomorYegor/react-tic-tac-toe))  
 
 * __10.2008 - 04.2010__ – Belarusian National Technical University.  
-The Branch of BNTU "Institute of Improvement of Professional Skills and Staff Retraining on New Directions of Engineering, Technology and Economy".  
+The Branch of BNTU "Institute of Improvement of Professional Skills 
+and Staff Retraining on New Directions of Engineering, Technology and Economy".  
 __Specialty:__ Web Design and Computer Graphics.  
 __Qualification:__ Software Engineer, Web Designer.
 
