@@ -32,7 +32,7 @@ ___
 * React, React-Router
 * Redux, Redux Saga
 
-English – B2 Upper Intermediate (CEFR). I can read technical literature.
+English – [B2 Upper Intermediate (CEFR)](https://www.efset.org/cert/jXLAay). I can read technical literature.
 
 ___
 ### Education
@@ -40,7 +40,7 @@ ___
 * __11.2019 - 06.2020__ – Coding School TeachMeSkills.  
 __Course:__ Front End Developer.  
 __Description:__ Development using HTML5, CSS3, JavaScript, AJAX, Git, Bootstrap, Webpack, npm, React, React-Router, Redux, Redux Saga.  
-![Certificate TeachMeSkills - Front End Developer](https://media-exp1.licdn.com/dms/image/C4D2DAQG7xJ4qNS_U-w/profile-treasury-image-shrink_800_800/0/1597479377694?e=1626634800&v=beta&t=8cy4xUNkRtK0K5ECKcQ1Hykq4AQ2AEJESsC4DgsBdEE)  
+![Certificate TeachMeSkills - Front End Developer](https://i.ibb.co/GVy5QYJ/Certificate-TMS-Front-End-0-800.jpg)  
 [React game "Dungeon Crawl"](https://chernomoryegor.github.io/react-dungeon-crawl/) ([Source code](https://github.com/ChernomorYegor/react-dungeon-crawl)) / [React game "Tic Tac Toe"](https://chernomoryegor.github.io/react-tic-tac-toe/) ([Source code](https://github.com/ChernomorYegor/react-tic-tac-toe))  
 
 * __10.2008 - 04.2010__ – Belarusian National Technical University.  
