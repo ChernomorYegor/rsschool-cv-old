@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-/* CSS-RESET & GENERAL STYLES */
+/* CSS-Reset & General Styles */
 
 html {
   box-sizing: border-box;
@@ -102,7 +102,7 @@ small a {
   background-color: #fff;
 }
 
-/* Header of page */
+/* Avatar */
 
 .header img {
   position: relative;
